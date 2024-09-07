@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.avatar#prop {
+    width: 300px;
+}
+.avatar#dist {
+    width: 200px;
+    height: 400px;
+}
